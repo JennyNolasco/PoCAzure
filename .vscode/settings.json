@@ -1,0 +1,13 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}",
+        ".env",
+        "test{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "appService.defaultWebAppToDeploy": "/subscriptions/51baa3b0-799b-481c-9d6f-97249ffa59bd/resourceGroups/rg_labatt_test/providers/Microsoft.Web/sites/AppJefe",
+}
